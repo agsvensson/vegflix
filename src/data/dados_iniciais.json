@@ -1,163 +1,200 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Salgados",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "cor": "orange",
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Ribs On The Barbie | Costela do Outback VEGANA?",
+          "url": "https://www.youtube.com/watch?v=ZPMS1uC7PBY"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Filé de Pescada | Peixe vegano",
+          "url": "https://www.youtube.com/watch?v=Vr7SyDEDBow"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Buffalo Wings | Mushroom Wings",
+          "url": "https://www.youtube.com/watch?v=MI1HZ1cRKlM"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Moqueca de Palmito",
+          "url": "https://www.youtube.com/watch?v=QgvRF03rtb4"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Choripán",
+          "url": "https://www.youtube.com/watch?v=ik94uTq_MqQ"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Lasanha à Bolonhesa",
+          "url": "https://www.youtube.com/watch?v=DBg_sGZeAas"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "X-Bacon",
+          "url": "https://www.youtube.com/watch?v=SbY4kCcdhnQ"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Estrogonofe de Grão-de-Bico",
+          "url": "https://www.youtube.com/watch?v=6GATpFgy9cY"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+      "titulo": "Doces",
+      "cor": "pink",
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Donuts",
+          "url": "https://www.youtube.com/watch?v=F-QjRhO37_g"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Brigadeiro de Biomassa de Banana Verde",
+          "url": "https://www.youtube.com/watch?v=--15407CVPk"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Doce de Leite",
+          "url": "https://www.youtube.com/watch?v=QQz4YY60UM0"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+          "titulo": "Sorvete de Paçoca",
+          "url": "https://www.youtube.com/watch?v=wxQffPftppI"
+        },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Cheesecake de Frutas Vermelhas",
+          "url": "https://www.youtube.com/watch?v=xBAoXU4pJLA"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      "titulo": "Petiscos",
+      "cor": "green",
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Biscoito de Banana",
+          "url": "https://www.youtube.com/watch?v=eIL8oEch25o"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Batata Frita",
+          "url": "https://www.youtube.com/watch?v=dNGed9DxpI8"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Coxinha",
+          "url": "https://www.youtube.com/watch?v=FJhFh7xdx9E"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Sanduíche Ratatouille",
+          "url": "https://www.youtube.com/watch?v=XYSa6OMAYDU"
+        },
+        {
+          "titulo": "Bolinha de Queijo",
+          "url": "https://www.youtube.com/watch?v=0jz0nLEgZn4"
+        },
+        {
+          "titulo": "Dadinho de Tapioca",
+          "url": "https://www.youtube.com/watch?v=NNUFXHkvzrQ"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Queijos",
+      "cor": "yellow",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Queijo para Fondue",
+          "url": "https://www.youtube.com/watch?v=yAqRgWpqw6I"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Tofu",
+          "url": "https://www.youtube.com/watch?v=Qlpkqueh180"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Queijo de Batata",
+          "url": "https://www.youtube.com/watch?v=irY2ZYi2FEc"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Queijo de Amendoim",
+          "url": "https://www.youtube.com/watch?v=3aAyIxSdcMg"
         }
+        
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "titulo": "Leites",
+      "cor": "purple",
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Leite de Amêndoas",
+          "url": "https://www.youtube.com/watch?v=3f3zyZmIbKQ"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
+          "titulo": "Leite de Amendoim",
+          "url": "https://www.youtube.com/watch?v=9i24YP1NxUE"
+        },
+        {
+          "titulo": "Leite de Coco",
           "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
         },
         {
-          "titulo": "God of War 4",
+          "titulo": "Leite de Aveia",
           "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
-          "titulo": "Resident Evil 8",
+          "titulo": "Leite de Arroz",
           "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
+      "titulo": "Molhos e Pastinhas",
+      "cor": "purple",
+      "videos": [
+        {
+          "titulo": "Maionese de Couve-Flor",
+          "url": "https://www.youtube.com/watch?v=zpNE2nU7vhg"
+        },
+        {
+          "titulo": "Maionese de Semente de Girassol",
+          "url": "https://www.youtube.com/watch?v=KAVR5RWLiVg"
+        },
+        {
+          "titulo": "Pesto",
+          "url": "https://www.youtube.com/watch?v=WqaTM3r7xWY"
+        },
+        {
+          "titulo": "Molho Chipotle",
+          "url": "https://www.youtube.com/watch?v=4Yn7bUYEns4"
+        },
+        {
+          "titulo": "Molho Barbecue",
+          "url": "https://www.youtube.com/watch?v=_Wrs7Ko0XlA"
+        }
+      ]
+    },
+    {
+      "titulo": "Pets",
+      "cor": "blue",
+      "videos": [
+        {
+          "titulo": "Biscoito para Cães",
+          "url": "https://www.youtube.com/watch?v=ciOaj-VraTw"
+        },
+        {
+          "titulo": "Cubinho Gelado",
+          "url": "https://www.youtube.com/watch?v=hN3GkocUW4A"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        }
+      ]
+    },
+    {
+      "titulo": "Conscientização",
+      "cor": "red",
       "videos": [
         {
           "titulo": "Como estudar melhor?",
